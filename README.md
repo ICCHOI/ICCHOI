@@ -27,7 +27,7 @@
   ### Badge  
   [![Github stats](https://github-readme-stats.vercel.app/api?username=icchoi)](https://github.com/icchoi)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icchoi&exclude_repo=ks-web&layout=compact&hide=javascript,html)](https://github.com/icchoi/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icchoi&exclude_repo=ks-web&layout=compact&hide=mustache)](https://github.com/icchoi/github-readme-stats)
   
   [![Solved.ac_프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=getmoney)](https://solved.ac/getmoney)
 
